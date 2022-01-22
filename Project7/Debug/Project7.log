@@ -1,0 +1,17 @@
+﻿  Source.c
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(10,33): warning C4081: expected 'newline'; found ';'
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(11,1): warning C4005: 'max': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : see previous definition of 'max'
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(12,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Dell\source\repos\Project7\Project7\Source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(52,10): warning C4101: 'str': unreferenced local variable
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(43,17): warning C4101: 'f3': unreferenced local variable
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(144,44): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(225,17): warning C4098: 'sort_file': 'void' function returning a value
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(282,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(284,36): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(266,20): warning C4101: 'temp': unreferenced local variable
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(270,17): warning C4101: 'f3': unreferenced local variable
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(92): warning C4716: 'random': must return a value
+C:\Users\Dell\source\repos\Project7\Project7\Source.c(214): warning C4716: 'sound': must return a value
+  Project7.vcxproj -> C:\Users\Dell\source\repos\Project7\Debug\Project7.exe
