@@ -10,4 +10,4 @@ And finally for the “glut32.dll”
 1. C:/Windows/system32
 2. C:/windows/sysWOW64
 
-Once you’re done, you’re going to need to open your visual studio. Make sure to include the <windows.h> library as well as <glut.h> library for your C compiler. Make sure you’re visual studio is set to x86 and not x64. Then you’re all good to go.
+Once you’re done, you’re going to need to open your visual studio. Make sure to include the <windows.h> library as well as <glut.h> library for your C compiler. Make sure your visual studio is set to x86 and not x64. Then you’re all good to go.
