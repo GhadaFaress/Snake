@@ -1,5 +1,8 @@
 # Snake
-This snake game was done as a project for our applied programming course. We are in our third semester of computer engineering. It was done by using OpenGL, glut library and in C language on visual studio. In order for this code to run successfully on your compiler, you need to install the OpenGL, glut library through this link. <https://www.opengl.org/resources/libraries/glut/glut_downloads.php>. After that, scroll down until you find the link of glutdlls37beta.zip. Download the files and once you do, open its folder. You’ll find several libraries you’re gonna need to add to differents paths. First, for the “glut.lib and glut32.lib”: 
+This snake game was done as a project for our applied programming course. We are in our third semester of computer engineering. It was done by using OpenGL, glut library and in C language on visual studio. In order for this code to run successfully on your compiler, you need to install the OpenGL, glut library through this link. <https://www.opengl.org/resources/libraries/glut/glut_downloads.php>. 
+After that, scroll down until you find the link of glutdlls37beta.zip.
+Download the files and once you do, open its folder. You’ll find several libraries you’re gonna need to add to differents paths. 
+First, for the “glut.lib and glut32.lib”: 
 1-C:/program files (x86)/visual studio/year of your visual studio/community/VC/Auxiliary/VS/lib/x64 
 2- C:/program files (x86)/visual studio/year of your visual studio/community/VC/Auxiliary/VS/lib/x86
 
