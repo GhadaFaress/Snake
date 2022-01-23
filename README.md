@@ -12,3 +12,4 @@ And finally for the “glut32.dll”
 
 Once you’re done, you’re going to need to open your visual studio. Make sure to include the <windows.h> library as well as <glut.h> library for your C compiler. Make sure you’re visual studio is set to x86 and not x64. 
 For the sound part, you can copy the songs in the sound folder here and paste them into the file of your project on your device. Then you’re all good to run the code.
+![Alt text](giff snakee.gif) / ![](giff snakee.gif)
